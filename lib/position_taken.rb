@@ -1,4 +1,4 @@
-# code your #position_taken? method here!
+# code your #position_taken? method here! right here
 
 def position_taken?(board, index)
 
